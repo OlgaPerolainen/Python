@@ -1,0 +1,4 @@
+include src/market_app.py
+include src/source/templates/*
+include src/source/static/*
+include src/data/*
