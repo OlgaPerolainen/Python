@@ -1,0 +1,355 @@
+.div_all_market_cards{
+	width:100%;
+	text-align:left; 
+	margin-left:3px; 
+	margin-top:10px;
+}
+.market_card{
+    width: 400px;
+    height: 350px;
+	margin: 0 0 30px 75px;
+	padding: 5px 5px 5px 15px;
+    background-color: white;
+    border-radius: 2px;
+    border-style: double;
+    border-color: green;
+    box-shadow: rgb(239 239 235) 1px 2px 5px 6px;
+    float: left;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+	text-transform: capitalize;
+}
+.nearby_market_card{
+	width:450px;
+	height:200px;
+	letter-spacing:-0.5px;
+	margin: 0 14px 15px 13px;
+	padding: 5px 5px 5px 15px;
+    background-color: white;
+    border-radius: 2px;
+    border-style: double;
+    border-color: green;
+    box-shadow: rgb(239 239 235) 1px 2px 5px 6px;
+    float: left;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+	text-transform: capitalize;
+	text-align:left;
+}
+.market_info{
+    margin: 0 6px 2px 28px;
+	padding: 5px;
+    background-color: white;
+    border-radius: 2px;
+    border-style: double;
+    border-color: green;
+    box-shadow: rgb(239 239 235) 1px 2px 5px 6px;
+    float: left;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+	text-transform: capitalize;
+}
+.menu_media{
+	text-align:left;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 16px;
+	padding:0px;
+	padding-left:5px;
+}
+.menu_media_center{
+	text-align:center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 16px;
+	padding:0px;
+	padding-left:5px;
+}
+.menu_media li, .menu_media_center li{
+	padding: 3px 6px;
+	display: inline;
+	letter-spacing: 0.8px;
+	border: 1px solid gainsboro;
+	border-radius: 2px;
+	box-shadow: rgb(239 239 235) 1px 2px 2px 2px;	
+	margin-right:5px;
+	vertical-align:-10px;
+}
+.card{
+	width:100%;
+    margin-top: 20px;
+    background-color: white;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.card td{
+	padding:15px;
+	vertical-align:top;
+}
+.comments_of_visitors{
+	width:300px;
+	min-height: 150px;
+	margin: 0 20px 20px 0;
+	padding: 15px;
+	padding-bottom: 0px;
+    background-color: white;
+    border-radius: 15px;
+    border-style: double;
+    border-color: gainsboro;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+	text-transform: none;
+}
+.comments_form{
+	width:100%;
+	margin: 0 20px 20px 0;
+	padding:0;
+    background-color: white;
+    border-radius: 15px;
+    border-style: double;
+    border-color: gainsboro;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+	text-transform: none;
+}
+.tip{
+	width:220px; 
+	margin:0 0 0 10px;
+	text-align:justify;
+	padding: 15px;
+	padding-bottom: 0px;
+    background-color: white;
+    border-radius: 15px;
+    border-style: double;
+    border-color: gainsboro;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+	text-transform: none;
+}
+.entry_column{
+	padding: 0px; 
+	text-align:right;
+}
+.table_header{
+	text-align: center;
+	height: 40%;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+	padding:10px;
+}
+.radiobuttons{
+	width: 98.5%;
+	margin: 0 20px 20px 20px;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+	text-align:right;
+}
+.rButton{
+	width:75px; 
+	text-align:left; 
+	padding-left:3px;
+}
+.entry{
+    width: 80%;
+    height: 37px;
+	margin: 18px 0 18px 2px;
+    padding: 0 10px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.entry_nickname{
+	width:94%;
+	height: 37px;
+	margin: 0;
+    padding: 0 10px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.entry_comment{
+	height:250px; 
+	width:97.5%;
+	resize:none;
+	margin: 18px 0 18px 2px;
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.distance{
+    padding: 0 10px;
+	margin: 10px 0 0 0;
+    width: 63px;
+    height: 25px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.btn_SubmitForm{
+	max-width:272px;
+	margin:12px 0;
+	padding: 0 10px;
+	width: 95%;
+	min-height: 40px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+	letter-spacing: 0.8px;
+}
+.btn_Show_Delete_Com{
+	height:40px;
+	min-width:190px;
+	width:48.3%; 
+	max-width:272px;
+	margin:3px;
+	padding: 0 10px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+	letter-spacing: 0.8px;
+}
+.cmbbx_Group_markets{
+	margin: 0 1px 5px 0;
+	padding: 0 3px;
+	max-width:90px;
+	height: 40px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+	letter-spacing: 0.8px;
+}
+.cmbbx_Group_nearby_markets{
+	height:25px;
+	width:90px;
+	margin:0 15px 5px 0;
+	padding: 0 3px;
+    border-radius: 2px;
+    box-shadow: rgb(239 239 235) 1px 2px 3px 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+	letter-spacing: 0.8px;
+}
+.wrapper{
+	height: 250px;
+	overflow-x: hidden; 
+	overflow-y: scroll;
+	margin: 0 0px 10px 0;
+	padding: 0 20px;
+}
+.comments_wrapper{
+	width: 370px; 
+	height:220px;
+	margin-top:5px; 
+	padding:0px; 
+	overflow-x: hidden; 
+	overflow-y: scroll;
+}
+
+a:link{
+    color: black;
+    text-decoration:none;
+}
+a:hover, a:visited:hover {
+    color: darkred;
+	font-weight: bold;
+}
+
+a:hover .market_card{
+	width: 410px;
+    height: 360px;
+	margin: -5px -5px 25px 70px;
+	box-shadow: rgb(239 239 235) 2px 3px 7px 8px;
+}
+a:hover .nearby_market_card{
+	width: 460px;
+    height: 210px;
+	margin: -5px 9px 10px 8px;
+	box-shadow: rgb(239 239 235) 2px 3px 7px 8px;
+}
+a:visited {
+    color: black;
+}
+
+.rating-area {
+	overflow: hidden;
+	width: 265px;
+	margin: 0;
+}
+.rating-area:not(:checked) > input {
+	display: none;
+}
+.rating-area:not(:checked) > label {
+	float: right;
+	width: 42px;
+	padding: 0;
+	cursor: pointer;
+	font-size: 32px;
+	line-height: 32px;
+	color: lightgrey;
+	text-shadow: 1px 1px #bbb;
+}
+.rating-area:not(:checked) > label:before {
+	content: '★';
+}
+.rating-area > input:checked ~ label {
+	color: gold;
+	text-shadow: 1px 1px #c60;
+}
+.rating-area:not(:checked) > label:hover,
+.rating-area:not(:checked) > label:hover ~ label {
+	color: gold;
+}
+.rating-area > input:checked + label:hover,
+.rating-area > input:checked + label:hover ~ label,
+.rating-area > input:checked ~ label:hover,
+.rating-area > input:checked ~ label:hover ~ label,
+.rating-area > label:hover ~ input:checked ~ label {
+	color: gold;
+	text-shadow: 1px 1px goldenrod;
+}
+.rate-area > label:active {
+	position: relative;
+}
+
+.span.stars, .span.stars span {
+    display: block;
+    background: '★' 0 -16px repeat-x;
+    width: 80px;
+    height: 16px;
+}
+
+.span.stars span {
+    background-position: 0 0;
+}
+
+.rating-mini {
+	display: inline-block;
+	font-size: 0;
+}
+.rating-mini span {
+	padding: 0;
+	font-size: 20px;
+	line-height: 1;
+	color: lightgrey;
+}
+.rating-mini > span:before {
+	content: '★';
+}
+.rating-mini > span.active {
+	color: gold;
+}
